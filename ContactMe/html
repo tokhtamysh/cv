@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Contact Me</title>
+</head>
+
+<body>
+    <h1>My Contact Details</h1>
+    
+    <address>
+        <p>My Fictional Address</p>
+        <p><a href="tel:+905418557862">0(541) 855 78 62</a></p>
+        <p><a href="mailto:bahadirapaydin@icloud.com">bahadirapaydin@icloud.com</a></p>
+    </address>
+
+    <hr />
+
+</body>
+
+</html>
